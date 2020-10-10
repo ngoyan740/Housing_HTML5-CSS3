@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../BAKEProject"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "NgoKimZi_baiHTML5&CSS3"
+	}
+}
